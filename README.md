@@ -16,7 +16,7 @@ JavaScript (Vanilla JS) → Lógica del sorteo y manipulación del DOM
 1. Clona el repositorio con:
 git clone https://github.com/JOHNMEN1024/challenge-amigo-secreto.git
 
-2.. Abre el archivo index.html en tu navegador.
+2. Abre el archivo index.html en tu navegador.
 
 3. Ingresa los nombres de los participantes.
 
