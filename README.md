@@ -12,6 +12,7 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios agregar
 HTML5 → Estructura de la aplicación
 CSS3 → Diseño y estilos visuales
 JavaScript (Vanilla JS) → Lógica del sorteo y manipulación del DOM
+
 📦 Instalación y uso
 1. Clona el repositorio con:
 git clone https://github.com/JOHNMEN1024/challenge-amigo-secreto.git
